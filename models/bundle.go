@@ -35,7 +35,7 @@ import (
 type BundleType string
 
 const (
-	SearchSet BundleType = "searchset"
+	BundletypeSearchset BundleType = "searchset"
 )
 
 type Bundle struct {
